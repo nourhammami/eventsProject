@@ -29,4 +29,52 @@ class EventServicesImplTest {
     @Test
     void calculCout() {
     }
+
+    @Test
+    void testAddParticipant() {
+    }
+
+    @Test
+    void testAddAffectEvenParticipant1() {
+    }
+
+    @Test
+    void testAddAffectEvenParticipant2() {
+    }
+
+    @Test
+    void testAddAffectLog() {
+    }
+
+    @Test
+    void testGetLogisticsDates() {
+    }
+
+    @Test
+    void testCalculCout() {
+    }
+
+    @Test
+    void testAddParticipant1() {
+    }
+
+    @Test
+    void testAddAffectEvenParticipant3() {
+    }
+
+    @Test
+    void testAddAffectEvenParticipant4() {
+    }
+
+    @Test
+    void testAddAffectLog1() {
+    }
+
+    @Test
+    void testGetLogisticsDates1() {
+    }
+
+    @Test
+    void testCalculCout1() {
+    }
 }
